@@ -1,29 +1,29 @@
 # Nymgo.id
 
-Landing page Nymgo Indonesia untuk informasi layanan telepon internasional dan pilihan paket.
+Nymgo Indonesia landing page with information about international calling services and package options.
 
-**Status:** Live · [Buka website](https://nymgo.id/)
+**Status:** Live · [Visit website](https://nymgo.id/)
 
-## Fitur
+## Features
 
-- Pengenalan produk
-- Pilihan paket layanan
-- Bagian pertanyaan umum dan informasi kontak
+- Product introduction
+- Service package options
+- Frequently asked questions and contact information
 
-## Teknologi
+## Technology
 
 HTML, CSS, JavaScript.
 
-## Menjalankan secara lokal
+## Running Locally
 
-Jalankan server HTTP dari folder proyek, lalu buka `index.html`. Contoh menggunakan PHP yang tersedia bersama XAMPP:
+Start an HTTP server from the project directory, then open `index.html`. For example, using the PHP installation bundled with XAMPP:
 
 ```sh
 php -S localhost:8000
 ```
 
-Buka [localhost:8000](http://localhost:8000).
+Open [localhost:8000](http://localhost:8000).
 
-## Catatan repository
+## Repository Notes
 
-Dependensi terpasang, cache, file `.env`, database, dan unggahan pengguna tidak disertakan. Nama merek dan aset pihak ketiga tetap mengikuti hak pemiliknya. Tidak ada lisensi penggunaan ulang yang diberikan melalui repository ini.
+Installed dependencies, caches, `.env` files, databases, and user uploads are not included. Brand names and third-party assets remain subject to their respective owners' rights. This repository does not grant a license for reuse.
