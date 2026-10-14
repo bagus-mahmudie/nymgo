@@ -4,6 +4,10 @@ Nymgo Indonesia landing page with information about international calling servic
 
 **Status:** Live · [Visit website](https://nymgo.id/)
 
+## Preview
+
+[![Nymgo.id — application preview](docs/screenshots/project-preview.png)](docs/screenshots/project-preview.png)
+
 ## Features
 
 - Product introduction
